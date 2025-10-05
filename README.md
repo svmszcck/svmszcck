@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 
-<img src="https://raw.githubusercontent.com/svmszcck/svmszcck/cover.jpg" align="center" alt="header image">
+<img src="https://raw.githubusercontent.com/svmszcck/svmszcck/cover.png" align="center" alt="header image">
 
 -------------------
 &emsp;
