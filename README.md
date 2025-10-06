@@ -11,9 +11,8 @@
 &emsp;
 
 - 🔭 I’m currently working on [Devzilla](https://play.google.com/store/apps/details?id=com.demirtas.devzilla)(Tech Skill Testing Platform). 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
-- 🌱 I’m currently learning **Machine Learning, Kotlin(For Native Android Development and Spring Boot)**
+- 📚 I’m currently learning **Machine Learning, Kotlin(For Native Android Development and Spring Boot)**
 
 - 💬 My favourite languages and technologies: **React, Typescript, React Native, Vue.js, GraphQL and Node.js**
 
