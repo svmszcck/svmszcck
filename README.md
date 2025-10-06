@@ -21,7 +21,6 @@
 
 ## Me around the web:
 -------------------
-<div>
  &emsp;
  ![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)[(Youtube)](https://linkedin.com/in/onurdmrts)
  <a href="https://x.com/svmszcck" target="_blank">
@@ -31,7 +30,6 @@
  <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
  </a>
  &emsp;
-</div>
 
 ## 🛠️ My Skills
 -------------------
