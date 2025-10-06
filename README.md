@@ -131,5 +131,5 @@
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=svmszcck&theme=tokyonight)
 
 ------
-Credit: [Berkeli](https://github.com/Berkeli)
+Credit: [Onur](https://github.com/svmszcck)
 Last Edited on: 06.10.2025
