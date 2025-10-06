@@ -37,7 +37,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-### Frontend development:
+### Frontend & Mobile development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -45,10 +45,11 @@
 ![Vue](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=38B2AC)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
+![Android](https://img.shields.io/badge/Android-black?logo=android&logoColor=white)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
