@@ -63,8 +63,8 @@
 
 ### Services & Frameworks: 
 &emsp;
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 
 
 ### Databases:
