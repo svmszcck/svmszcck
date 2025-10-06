@@ -24,8 +24,8 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/onurdmrts">
+    ![Linkedin: onurdmrts](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
