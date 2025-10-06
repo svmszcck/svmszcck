@@ -32,9 +32,6 @@
  <a href="https://instagram.com/onurdmrts48" target="_blank">
  <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
  </a>
- <a href="https://www.leetcode.com/berkeli/">
-     ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
- </a>
 </div>
 
 ## 🛠️ My Skills
