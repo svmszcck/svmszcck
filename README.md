@@ -76,7 +76,7 @@
 
 ### DevOps:
 &emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-black.svg?logo=aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
