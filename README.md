@@ -23,7 +23,7 @@
 -------------------
 <div>
  &emsp;
- [<img alt="linkedin" width="40px" src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/onurdmrts)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)[(Youtube)](https://linkedin.com/in/onurdmrts)
  <a href="https://x.com/svmszcck" target="_blank">
  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
  </a>
