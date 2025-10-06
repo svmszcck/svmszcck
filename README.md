@@ -24,7 +24,7 @@
 <div>
  &emsp;
  <a href="https://linkedin.com/in/onurdmrts" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kkapagte5@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="https://x.com/svmszcck" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/onurdmrts48" target="_blank"><img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
  &emsp;
 </div>
