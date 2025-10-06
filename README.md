@@ -48,7 +48,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
