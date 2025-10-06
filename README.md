@@ -49,7 +49,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
-![Android](https://img.shields.io/badge/Android-black?logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-black?logo=android)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
