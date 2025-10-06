@@ -43,7 +43,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Vue](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
-![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=38B2AC)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
