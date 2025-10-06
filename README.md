@@ -40,13 +40,13 @@
 ### Frontend & Mobile development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Vue](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=38B2AC)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=38B2AC)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 ![Android](https://img.shields.io/badge/Android-black?logo=android)
