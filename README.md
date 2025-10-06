@@ -42,7 +42,7 @@
 ![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Java](https://img.shields.io/badge/-Java-000?&logo=TradingView)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
