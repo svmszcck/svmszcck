@@ -13,9 +13,9 @@
 - 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
 - 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+- 🌱 I’m currently learning **Machine Learning, Kotlin(For Native Android Development and Spring Boot)**
 
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 💬 My favourite languages and technologies: **React, Typescript, React Native, Vue.js, GraphQL and Node.js**
 
 &emsp;
 
