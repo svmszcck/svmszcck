@@ -94,7 +94,7 @@
 
 ### 🔥 Streak Stats
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=svmszcck&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats-delta-ebon.vercel.app?user=svmszcck&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ------
 Credit: [Onur Demirtaş](https://onurdemirtas.com)
