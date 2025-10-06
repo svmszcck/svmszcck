@@ -128,12 +128,8 @@
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=svmszcck&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=svmszcck&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=svmszcck&theme=tokyonight)
 
 ------
 Credit: [Berkeli](https://github.com/Berkeli)
-Last Edited on: 02/01/2023
+Last Edited on: 06.10.2025
