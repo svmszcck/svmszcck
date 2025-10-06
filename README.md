@@ -44,7 +44,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?&logo=tailwind-css)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
