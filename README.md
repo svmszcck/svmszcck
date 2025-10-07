@@ -90,7 +90,7 @@
 ### 💻 Profile Stats
 
 <div>
- <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=svmszcck&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+ <img alt="My Github Stats" src="https://github-readme-stats-iota-five-54.vercel.app/api/?username=svmszcck&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </div>
 
