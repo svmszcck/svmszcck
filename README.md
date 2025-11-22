@@ -68,7 +68,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
-### Services & Frameworks: 
+### Services & Frameworks:
 &emsp;
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
@@ -77,7 +77,6 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
