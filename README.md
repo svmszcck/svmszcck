@@ -37,7 +37,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=white)
 ### Frontend & Mobile development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
