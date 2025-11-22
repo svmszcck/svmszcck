@@ -36,8 +36,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=Kotlin&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+
 ### Frontend & Mobile development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -45,12 +46,17 @@
 ![Vue](https://img.shields.io/badge/Vue.js-black?logo=vuedotjs)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Android](https://img.shields.io/badge/Android-black?logo=android)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=38B2AC)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![D3.js](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
-![Android](https://img.shields.io/badge/Android-black?logo=android)
+
+### Backend development:
+&emsp;
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=339933)
+
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -66,7 +72,6 @@
 &emsp;
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-
 
 ### Databases:
 &emsp;
