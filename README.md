@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Devzilla](https://play.google.com/store/apps/details?id=com.demirtas.devzilla)(Tech Skill Testing Platform). 
 
-- 📚 I’m currently learning **Machine Learning and Kotlin(For Native Android Development)**
+- 📚 I’m currently learning **Machine Learning and Kotlin(For Native Android Development)**.
 
-- 💬 My favourite languages and technologies: **React, Typescript, React Native, Vue.js, GraphQL and Node.js**
+- 💬 My favourite languages and technologies: **React, Typescript, React Native, Vue.js, GraphQL and Node.js**.
 
 &emsp;
 
