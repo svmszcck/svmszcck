@@ -4,7 +4,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Senior Software Engineer with over 7 years of experience in full stack development specializing in building scalable and high-performance web and mobile applications.</h3>
+<h3 align="left">Senior Software Engineer with over 8 years of experience in full stack development specializing in building scalable and high-performance web and mobile applications.</h3>
 &emsp;
 
 -------------------
